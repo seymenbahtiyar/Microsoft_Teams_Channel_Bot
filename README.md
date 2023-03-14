@@ -1,8 +1,7 @@
 # Microsoft Teams Channel Bot
 
 
-This is a C# program that uses the Microsoft Graph API to interact with a specific channel in a Microsoft Teams team.
-
+This is a C# program that uses the Microsoft Graph API to interact with a specific channel in a Microsoft Teams.
 ## Dependencies
 
 - Microsoft.Identity.Client 4.50.0
