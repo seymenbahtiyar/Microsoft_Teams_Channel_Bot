@@ -20,11 +20,18 @@ Before running the program, you need to set the following variables with your ow
 - `teamID`: The ID of the Microsoft Teams team you want to interact with.
 - `channelID`: The ID of the channel within the team you want to interact with.
 
+## Example
+
+<img width="304" alt="image" src="https://user-images.githubusercontent.com/110940406/225104148-23ea9122-b75b-4ef6-9d47-4558fb5f357e.png">
+
+
 ## How it works
 
 The program enters an infinite loop where it checks for new messages in the specified channel every 5 seconds. If it finds a new message, it calls the `RespondToMessage` method which sends a reply to that message.
 
 The reply is hardcoded as "Reply from C#!" but you can change it to whatever you want.
+
+
 
 ## Running the program
 
